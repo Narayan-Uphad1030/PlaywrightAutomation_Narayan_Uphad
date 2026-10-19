@@ -79,3 +79,12 @@ let hight = null;
 //console.log(tyepof hight);
 console.log(hight);
 console.log(typeof hight);
+
+let x;
+console.log(typeof(x));
+
+console.log("10"+5);
+
+console.log(null==undefined);
+let a = 5;
+console.log(++a);
